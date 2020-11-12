@@ -1,7 +1,9 @@
 from narges import narges_print
-from  maryam import Print
+from maryam import maryam_print
+
+
 def our_main():
-
     narges_print()
-    Print()
+    maryam_print()
 
+our_main()

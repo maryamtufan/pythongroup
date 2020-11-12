@@ -1,2 +1,2 @@
-def Print():
+def maryam_print():
     print("maryam")
